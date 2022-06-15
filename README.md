@@ -61,7 +61,7 @@ After your instructor reviews the project overview and demonstrates how to use `
 
 On Day 2, you will complete your assessment of Target 1. If you completed this task, you may move on to the Wireshark analysis.
 
-- [Assessing Target 1](Analysis_Complete/Blueteam/Btso1.png, Btso2.png, Btso3.png, Btso4.png, Btso5.png)
+- [Assessing Target 1](Analysis Complete/Blueteam/Btso1.png)
 
 #### Day 3: Analysis
 
