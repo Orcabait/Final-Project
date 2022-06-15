@@ -8,7 +8,6 @@ You will start by confirming that newly created Kibana alerts are working, after
 
 You are to report back all your findings to both the SOC manager and the Engineering Manager with appropriate analysis.
 
-
 ### Instructions
 
 This week, you will work on your final project by completing the following tasks individually:
@@ -55,19 +54,13 @@ The following breakdown describes the tasks you will be assigned and a recommend
 
 After your instructor reviews the project overview and demonstrates how to use `wpscan` to assess a WordPress target, you will configure alerts in Kibana and test the alerts by repeating attacks against the Capstone VM. Then, you will begin your assessment of the first vulnerable VM: Target 1.
 
-- [Attacking Target 1](Analysis Complete/Redteam)
-
 #### Day 2: Target 1
 
 On Day 2, you will complete your assessment of Target 1. If you completed this task, you may move on to the Wireshark analysis.
 
-- [Assessing Target 1](Analysis Complete/Blueteam)
-
 #### Day 3: Analysis
 
-After assessing the Target 1, you will use the Kali VM to capture and analyze traffic on the virtual network with Wireshark. You will analyze the traffic to explain the actions that users are doing on the network. After analyzing Wireshark traffic, you will spend the remainder of class completing summaries of your work, and then working in groups to begin your presentations. 
-
-- [Network Analysis](Analysis_Complete/Wireshark)
+After assessing the Target 1, you will use the Kali VM to capture and analyze traffic on the virtual network with Wireshark. You will analyze the traffic to explain the actions that users are doing on the network.  
   
 #### Reports
 
