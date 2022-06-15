@@ -66,9 +66,7 @@ After assessing the Target 1, you will use the Kali VM to capture and analyze tr
 
 The Defensive Report and the Offensive Report relates to the Days 1 and 2, and the Network Report relates to Day 3. You can complete these as you work through the activities, outside of class, or on Day 3, during the time reserved for completing the project deliverables. The reports must be completed individually.
 
-   - [Defensive Report Template](Analysis Complete/Blueteam)
-   - [Offensive Report Template](Analysis Complete/Redteam)
-   - [Network Report Template](Analysis_Complete/Wireshark)
+These reports can all be found in 'Analysis Complete' 
 
 
 ---
