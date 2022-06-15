@@ -49,42 +49,34 @@ This is a diagram of the network:
  
 ### Task Breakdown
 
-The following breakdown describes the tasks you will be assigned and a recommended timeline for achieving each milestone. 
+The following breakdown describes the tasks you will be assigned and a recommended timeline for achieving each milestone. Full reports in PDF form can be found in the 'Analysis Complete' folder. PNG's have been provided for convenience
 
 #### Day 1: Target 1
 
 After your instructor reviews the project overview and demonstrates how to use `wpscan` to assess a WordPress target, you will configure alerts in Kibana and test the alerts by repeating attacks against the Capstone VM. Then, you will begin your assessment of the first vulnerable VM: Target 1.
 
-- [Attacking Target 1](Analysis_Complete/Red Team_Summary of Operations.pdf)
+- [Attacking Target 1](Analysis Complete/Redteam)
 
 #### Day 2: Target 1
 
 On Day 2, you will complete your assessment of Target 1. If you completed this task, you may move on to the Wireshark analysis.
 
-- [Assessing Target 1](Analysis Complete/Blueteam/Btso1.png)
+- [Assessing Target 1](Analysis Complete/Blueteam)
 
 #### Day 3: Analysis
 
 After assessing the Target 1, you will use the Kali VM to capture and analyze traffic on the virtual network with Wireshark. You will analyze the traffic to explain the actions that users are doing on the network. After analyzing Wireshark traffic, you will spend the remainder of class completing summaries of your work, and then working in groups to begin your presentations. 
 
-- [Network Analysis](Analysis_Complete/Wireshark Analysis.pdf)
- 
-### Report and Presentation Templates
+- [Network Analysis](Analysis_Complete/Wireshark)
+  
+#### Reports
 
-To complete the project, you will need to fill out the reports and slide decks linked below. The templates are on Google Drive (you must make a copy of each).   
+The Defensive Report and the Offensive Report relates to the Days 1 and 2, and the Network Report relates to Day 3. You can complete these as you work through the activities, outside of class, or on Day 3, during the time reserved for completing the project deliverables. The reports must be completed individually.
 
-- **Reports:** The Defensive Report and the Offensive Report relates to the Days 1 and 2, and the Network Report relates to Day 3. You can complete these as you work through the activities, outside of class, or on Day 3, during the time reserved for completing the project deliverables. The reports must be completed individually.
+   - [Defensive Report Template](Analysis Complete/Blueteam)
+   - [Offensive Report Template](Analysis Complete/Redteam)
+   - [Network Report Template](Analysis_Complete/Wireshark)
 
-   - [Defensive Report Template](Analysis_Complete/Blue Team_Summary of Operations.pdf)
-   - [Offensive Report Template](Analysis Complete/Red Team_Summary of Operations.pdf)
-   - [Network Report Template](Analysis Complete/Wireshark Analysis.pdf)
-
-
-- **Presentation:** On Day 3, you will work in groups of three to six to complete **one** of the three slide decks below. On Day 4, you will present as a group: 
-
-   - [Offensive Presentation Template](https://docs.google.com/presentation/d/19ouk_AS16V-f1KiJ3FTnNpJ4SJn1QQG3vkKukEN1NvU/edit#slide=id.g630a814dc5_0_53)
-   - [Defensive Presentation Template](https://docs.google.com/presentation/d/1LP9TBdUYlWut3Qu4Czf618i-kg_qjjxkbnWLNTSdJBk/edit#slide=id.g630a814dc5_0_53)
-   - [Network Presentation Template](https://docs.google.com/presentation/d/1LLh9dyrXNkWLqcsOnu5C_LOFDm_1EuKSf7y-Z7DwXn8/edit#slide=id.g630a814dc5_0_53)
 
 ---
 
